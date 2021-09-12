@@ -6,4 +6,6 @@ Inside the resources folder there is a template which can be used to lay out all
 
 For now there isn't any kind of GUI or anything, but using the tags and template there is the possibility of creating one down the line that features a search and other features.
 
-Enjoy and feel free to both contribute and use the recipes!
+If you would like to make a contribution tot he repo, feel free to make a PR!
+
+Enjoy and feel free to use/contribute any recipes!
